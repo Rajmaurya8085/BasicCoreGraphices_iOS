@@ -15,6 +15,7 @@
 		04081BC521CFCA1F0039E8CD /* BasicCoreGraphices_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04081BC421CFCA1F0039E8CD /* BasicCoreGraphices_iOSTests.swift */; };
 		04081BD021CFCA1F0039E8CD /* BasicCoreGraphices_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04081BCF21CFCA1F0039E8CD /* BasicCoreGraphices_iOSUITests.swift */; };
 		04081BDE21CFCB460039E8CD /* DesignableCustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04081BDD21CFCB460039E8CD /* DesignableCustomButton.swift */; };
+		04081BE021D111650039E8CD /* DesignableUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04081BDF21D111650039E8CD /* DesignableUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		04081BCF21CFCA1F0039E8CD /* BasicCoreGraphices_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCoreGraphices_iOSUITests.swift; sourceTree = "<group>"; };
 		04081BD121CFCA1F0039E8CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04081BDD21CFCB460039E8CD /* DesignableCustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignableCustomButton.swift; sourceTree = "<group>"; };
+		04081BDF21D111650039E8CD /* DesignableUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignableUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				04081BB821CFCA1F0039E8CD /* LaunchScreen.storyboard */,
 				04081BBB21CFCA1F0039E8CD /* Info.plist */,
 				04081BDD21CFCB460039E8CD /* DesignableCustomButton.swift */,
+				04081BDF21D111650039E8CD /* DesignableUIView.swift */,
 			);
 			path = BasicCoreGraphices_iOS;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04081BE021D111650039E8CD /* DesignableUIView.swift in Sources */,
 				04081BB221CFCA1D0039E8CD /* ViewController.swift in Sources */,
 				04081BB021CFCA1D0039E8CD /* AppDelegate.swift in Sources */,
 				04081BDE21CFCB460039E8CD /* DesignableCustomButton.swift in Sources */,
